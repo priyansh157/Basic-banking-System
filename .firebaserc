@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "basic-banking-system-fcb69": {
+      "hosting": {
+        "basic-banking-system": [
+          "basic-banking-system-fcb69"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "basic-banking-system-fcb69"
+  }
+}
